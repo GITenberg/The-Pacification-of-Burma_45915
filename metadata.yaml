@@ -1,0 +1,29 @@
+_repo: The-Pacification-of-Burma_45915
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45915-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crosthwaite, C. H. T. (Charles Haukes Todd)
+    alias: Crosthwaite, Charles Haukes Todd
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '43521'
+    url: http://www.gutenberg.org/2009/agents/43521
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Crosthwaite
+description: ''
+gutenberg_issued: '2014-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45915'
+  lccn: '12014982'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Burma -- History -- 1824-1948'
+title: The Pacification of Burma
+url: http://www.gutenberg.org/ebooks/45915
